@@ -45,9 +45,9 @@ End-to-end analysis of Kaggle’s [Credit Card Fraud Detection](https://www.kagg
    pip install -r requirements.txt
    ```
 
-3. **Download the data**  
-   - Sign in to Kaggle and download `creditcard.csv`.  
-   - Place it at `data/creditcard.csv`.
+### 3. Download the data  
+1. Sign in to Kaggle and download `creditcard.csv` from the dataset page.  
+2. Place the file at `data/creditcard.csv` in this repo.
 
 4. **Launch Jupyter**  
    ```bash
